@@ -1,5 +1,5 @@
 
-#  GenAI_Project: Chatbot Assistant using Generative AI
+#  GenAI_Project: Context-Aware Chatbot Using GPT-2
 
 This mini project has been developed as part of the **Generative AI (GenAI)** course, focusing on building an intelligent chatbot using a pre-trained **GPT-2** model.
 
