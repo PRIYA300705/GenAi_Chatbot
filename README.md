@@ -40,8 +40,9 @@ The objective of this project is to create a **Chatbot Assistant** capable of ge
 
 ## How to Use the Google Colab Version
 
-1. Open the file: `Priya Sah GenAI Chatbot.ipynb`  
-2. Run all the code cells sequentially  
-3. Begin chatting by entering your text in the final cell's input prompt
+1. Download the file: 'GenAI Chatbot Using GPT-2 notebook file.ipynb'
+2. Open the file 
+3. Run all the code cells sequentially  
+4. Begin chatting by entering your text in the final cell's input prompt
 
 ---
